@@ -1,0 +1,2 @@
+# Resolving-an-error-message-with-Rufus-in-creating-an-ISO-image-onto-a-flash-drive
+The instructions were followed to the letter- everything was in alignment to where and what it should had been but the error message still appeared where I decided to bring it to the GitHub community for both resolution and interaction with other coders, or in my case, a natural coder who's currently learning the fundamentals. 
